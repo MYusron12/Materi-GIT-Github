@@ -1,0 +1,22 @@
+Install software git di ( https://git-scm.com/ )
+Git dijalankan menggunakan console atau commandprompt
+Didalam wesite GIT, terdapat ebook dengan nama pro GIT
+GIT sebuah software yang banyak dipakai di industri programming seluruh dunia
+
+
+#Perintah pada GIT
+- git --version / untuk mengetahui versi GIT yang sedang dipakai
+- git init / untuk menginisialisai repo git di komputer kita
+- git add / untuk menambahkan file di stacing area
+- git status / mengetahui status pada repo kita, ada file baru?, ada file hilang?, 
+- git commit / untuk melakukan comit
+- git config / untuk melakukan config
+- git branch / untuk membuat branch
+- git help / mengetahui cara cepat sebuah perintah
+
+#3AREA PADA REPO
+- Working tree / folder tempat bekerja
+- Staging area
+- History
+
+ Ada forlder bernama ( .gti ) / 
