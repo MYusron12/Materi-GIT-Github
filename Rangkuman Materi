@@ -9,14 +9,19 @@ GIT sebuah software yang banyak dipakai di industri programming seluruh dunia
 - git init / untuk menginisialisai repo git di komputer kita
 - git add / untuk menambahkan file di stacing area
 - git status / mengetahui status pada repo kita, ada file baru?, ada file hilang?, 
-- git commit / untuk melakukan comit
+- git commit -m ""/ untuk melakukan comit
 - git config / untuk melakukan config
+- git config --list / untuk melihat cara konfigurasi (:q untuk keluar list)
+- git config --global user.name ""
+- git config --global user.email "" / perintah konfigurasi akun lokal github
 - git branch / untuk membuat branch
 - git help / mengetahui cara cepat sebuah perintah
+- alias graph="git log --all --decorate --online --graph" /untuk membuat graph atau alias
+- mkdir nama-direktori / untuk membuat folder baru
 
 #3AREA PADA REPO
 - Working tree / folder tempat bekerja
 - Staging area
 - History
 
- Ada forlder bernama ( .gti ) / 
+ Ada forlder bernama ( .git dan readme.md ) / isi file git di pc 
